@@ -1,2 +1,2 @@
-# Interior-PSD-
+# Interior
 Сделал сайт с макета PSD
